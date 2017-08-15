@@ -1,3 +1,6 @@
+# 自己搭建的vue框架
+做几个简单的页面
+
 # verification
 
 > a vue.js project in tianxialashou
